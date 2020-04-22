@@ -1,6 +1,6 @@
 # 基础
 
-##语言
+## 语言
 ### 面向对象编程概念
 
 核心概念：对象，消息，类和继承。
@@ -97,5 +97,6 @@ assignment|	= += -= *= /= %= &= ^= |= <<= >>= >>>=
 
 
 
-> 参考
+# 参考
+
 [Java教程学习路径](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
